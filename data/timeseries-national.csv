@@ -1,0 +1,172 @@
+Date,Cases,Deaths,CFR (%),Attack Rate (per 1000),Bulletin Type,Bulletin URL,NewCases,NewDeaths
+2017-05-22,35471,361,0.0101773279580502,1.19,Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_1.pdf?ua=1,2154,26
+2017-05-23,37625,387,0.0102857142857143,1.27970322431395,NA,NA,2995,26
+2017-05-24,40620,413,0.0101674052191039,1.36750583630219,NA,NA,3550,20
+2017-05-25,44170,433,0.00980303373330315,1.49091444961542,NA,NA,3998,19
+2017-05-26,48168,452,0.00938382328516858,1.61713025895953,NA,NA,3972,19
+2017-05-27,52140,471,0.00903337169159954,1.76,Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170527.pdf?ua=1,4006,19
+2017-05-28,56146,490,0.00872724682078866,1.90104853025493,NA,NA,4723,20
+2017-05-29,60869,510,0.00837864923031428,2.04825968980937,NA,NA,4488,22
+2017-05-30,65357,532,0.00813990850253225,2.2,Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170530.pdf?ua=1,4587,26
+2017-05-31,69944,558,0.00797781082008464,2.35470571594271,NA,NA,4111,27
+2017-06-01,74055,585,0.00789953413003848,2.48479934324597,NA,NA,4507,31
+2017-06-02,78562,616,0.00784094091290955,2.63158790336394,NA,NA,4080,32
+2017-06-03,82642,648,0.00784104934536918,2.77023359473236,NA,NA,3780,33
+2017-06-04,86422,681,0.00787993797875541,2.91,Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170604.pdf?ua=1,4133,32
+2017-06-05,90555,713,0.00787366793661311,3.05438296895893,NA,NA,5253,37
+2017-06-06,95808,750,0.00782815631262525,3.23329386337987,NA,NA,6012,44
+2017-06-07,101820,794,0.00779807503437439,3.43,Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epidemiology_bulletin_5_5-7_June_2017.pdf?ua=1,8168,55
+2017-06-08,109988,849,0.00771902389351566,3.70367196213863,NA,NA,8457,44
+2017-06-09,118445,893,0.00753936426189371,3.97648313448713,NA,NA,5557,30
+2017-06-10,124002,923,0.0074434283318011,4.18,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_week_23.pdf?ua=1,2372,9
+2017-06-11,126374,932,0.00737493471758431,4.25333384141708,NA,NA,2811,10
+2017-06-12,129185,942,0.00729186825095793,4.36,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170613.pdf?ua=1,6022,32
+2017-06-13,135207,974,0.00720376903562685,4.56,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170614.pdf?ua=1,4909,15
+2017-06-14,140116,989,0.00705843729481287,4.73,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170615.pdf?ua=1,4971,25
+2017-06-15,145087,1014,0.00698891010221453,4.87915041437816,NA,NA,5962,38
+2017-06-16,151049,1052,0.00696462737257446,5.07921059838204,NA,NA,7911,48
+2017-06-17,158960,1100,0.00691997986914947,5.36,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update.18.6.2017.pdf?ua=1,8016,46
+2017-06-18,166976,1146,0.00686326178612495,5.63,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin.19.6.17.pdf?ua=1,5310,24
+2017-06-19,172286,1170,0.00679103351404061,5.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/documents/Yemen_epi_d_update.20.6.2017.pdf?ua=1,7262,35
+2017-06-20,179548,1205,0.00671129725755787,6.1,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170621.pdf?ua=1,5753,28
+2017-06-21,185301,1233,0.0066540385642819,6.2,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update.22.06.17.pdf?ua=1,7682,32
+2017-06-22,192983,1265,0.00655498152687024,6.5,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update.23.06.17.pdf?ua=1,7437,45
+2017-06-23,200420,1310,0.00653627382496757,6.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170624.pdf?ua=1,7783,34
+2017-06-24,208203,1344,0.00645523839714125,7,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170625.pdf?ua=1,4014,24
+2017-06-25,212217,1368,0.00644623192298449,7.2,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170626.pdf?ua=1,6581,32
+2017-06-26,218798,1400,0.0063985959652282,7.4,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170627.pdf?ua=1,6191,16
+2017-06-27,224989,1416,0.00629364102244999,7.6,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170628.pdf?ua=1,6375,23
+2017-06-28,231364,1439,0.00621963658996214,7.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170629.pdf?ua=1,8063,36
+2017-06-29,239427,1475,0.00616054162646652,8.1,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170630.pdf?ua=1,7440,42
+2017-06-30,246867,1517,0.00614500925599614,8.3,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170701.pdf?ua=1,5949,43
+2017-07-01,252816,1560,0.00617049553825707,8.5,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170702.pdf?ua=1,9834,27
+2017-07-02,262650,1587,0.0060422615648201,8.9,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170703.pdf?ua=1,6958,27
+2017-07-03,269608,1614,0.00598646924423608,9.1,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170704.pdf?ua=1,6379,20
+2017-07-04,275987,1634,0.00592056872243983,9.3,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/documents/Yemen_epi_d_update_20170705.pdf?ua=1,8113,23
+2017-07-05,284100,1657,0.00583245336149243,9.6,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/documents/Yemen_epi_d_update_20170706.pdf?ua=1,7454,21
+2017-07-06,291554,1678,0.00575536607283728,9.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170707.pdf?ua=1,5884,28
+2017-07-07,297438,1706,0.00573564911006664,10,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170708.pdf?ua=1,4964,15
+2017-07-08,302402,1721,0.00569109992658779,10.197145143823,NA,NA,5939,5
+2017-07-09,308341,1726,0.00559769865181731,10.4117466426703,NA,NA,5197,6
+2017-07-10,313538,1732,0.00552405131116483,10.6,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170711.pdf?ua=1,6661,10
+2017-07-11,320199,1742,0.00544036677191372,10.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170712.pdf?ua=1,5883,1
+2017-07-12,326082,1743,0.00534528124827497,11,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170713.pdf?ua=1,6576,16
+2017-07-13,332658,1759,0.00528771290634826,11.2,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170714.pdf?ua=1,6311,11
+2017-07-14,338969,1770,0.00522171644014644,11.4,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170715.pdf?ua=1,5782,14
+2017-07-15,344751,1784,0.00517474931182216,11.6,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_epi_d_update_20170716.pdf?ua=1,6294,6
+2017-07-16,351045,1790,0.00509906137389793,11.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_epi_d_update_20170717.pdf?ua=1,5546,12
+2017-07-17,356591,1802,0.0050534085268557,12,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170718.pdf?ua=1,5954,15
+2017-07-18,362545,1817,0.00501179163965852,12.2,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170719.docx.pdf?ua=1,5662,11
+2017-07-19,368207,1828,0.00496459871756919,12.4,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_epi_d_update_20170720.pdf?ua=1,4708,9
+2017-07-20,372915,1837,0.00492605553544373,12.6,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170721.pdf?ua=1,4979,10
+2017-07-21,377894,1847,0.00488761398699106,12.7,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170722.pdf?ua=1,6825,11
+2017-07-22,384719,1858,0.00482949893298745,13,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170723.pdf?ua=1,6146,6
+2017-07-23,390865,1864,0.00476890998170724,20.2,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/Yemen_epi_bulletin_20170724.pdf?ua=1,5221,5
+2017-07-24,396086,1869,0.00471867220755089,13.4,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170725.pdf?ua=1,6398,11
+2017-07-25,402484,1880,0.00467099313264627,13.6,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170726.pdf?ua=1,6099,5
+2017-07-26,408583,1885,0.00461350570141195,13.8,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170727b.pdf?ua=1,5965,4
+2017-07-27,414548,1889,0.00455677026544574,14,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170728.pdf?ua=1,5256,3
+2017-07-28,419804,1892,0.00450686510847919,14.2,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170729.pdf?ua=1,5388,3
+2017-07-29,425192,1895,0.00445681009990781,14.3,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170730.pdf?ua=1,5209,8
+2017-07-30,430401,1903,0.00442145812858242,14.5,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_epi_bulletin_20170731.pdf?ua=1,6224,12
+2017-07-31,436625,1915,0.00438591468651589,14.7,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170731.pdf?ua=1,6541,6
+2017-08-01,443166,1921,0.00433471881868194,14.9,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_daily_epi_update_20170801.pdf?ua=1,4721,4
+2017-08-02,447887,1925,0.00429795908342953,15.1129947646522,NA,NA,5288,5
+2017-08-03,453175,1930,0.00425884040381751,15.3,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_daily_epi_update_20170804.pdf?ua=1,5897,7
+2017-08-04,459072,1937,0.00421938170918723,15.4912992456096,NA,NA,8324,8
+2017-08-05,467396,1945,0.00416135354175046,15.6549180018097,NA,NA,6305,8
+2017-08-06,473701,1953,0.00412285386773513,15.825,Weekly Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Weekly_Epidemiological_Bulletin_-_W31_2017_Jul_31-Aug_06.pdf?ua=1,5966,5
+2017-08-07,479667,1958,0.00408199855316292,15.9819279470989,NA,NA,4566,4
+2017-08-08,484233,1962,0.00405176846683312,16.1117698298628,NA,NA,4141,3
+2017-08-09,488374,1965,0.00402355571754434,16.2468138551369,NA,NA,3429,2
+2017-08-10,491803,1967,0.00399956893308906,16.3777091228876,NA,NA,3799,2
+2017-08-11,495602,1969,0.00397294603330899,16.5103327149628,NA,NA,3457,3
+2017-08-12,499059,1972,0.00395143660368814,16.6737647093812,NA,NA,4425,3
+2017-08-13,503484,1975,0.00392266685733807,16.82,Daily Epidemiology bulletin,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-13.pdf?ua=1,4677,5
+2017-08-14,508161,1980,0.00389640291167563,16.9813344574512,NA,NA,5259,4
+2017-08-15,513420,1984,0.00386428265357797,17.1449825628327,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Daily_Epi_Update_-_2017-08-15.pdf?ua=1,4635,3
+2017-08-16,518055,1987,0.00383550009168911,17.307,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-16.pdf?ua=1,4305,4
+2017-08-17,522360,1991,0.00381154759169921,17.451,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-17.pdf?ua=1,5110,6
+2017-08-18,527470,1997,0.00378599730790377,17.622,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-18.pdf?ua=1,4838,1
+2017-08-19,532308,1998,0.00375346603845894,17.783,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-19_1.pdf?ua=1,5014,2
+2017-08-20,537322,2000,0.00372216287440306,17.951,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-20.pdf?ua=1,5501,3
+2017-08-21,542823,2003,0.00368996892172955,18.135,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-21.pdf?ua=1,5676,10
+2017-08-22,548499,2013,0.00367001580677449,18.324,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-22.pdf?ua=1,5698,3
+2017-08-23,554197,2016,0.00363769562087128,18.515,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-23.pdf?ua=1,5616,2
+2017-08-24,559813,2018,0.00360477516599293,18.702,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-24.pdf?ua=1,4430,0
+2017-08-25,564243,2018,0.00357647325708959,19.3526546859586,NA,NA,4789,2
+2017-08-26,569032,2020,0.00354988823124183,19.996,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-26.pdf?ua=1,6217,5
+2017-08-27,575249,2025,0.0035202147244063,20.215,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-27.pdf?ua=1,5578,3
+2017-08-28,580827,2028,0.00349157322231921,20.411,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-28.pdf?ua=1,4700,5
+2017-08-29,585527,2033,0.00347208583037161,20.576,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-29.pdf?ua=1,5573,2
+2017-08-30,591100,2035,0.0034427338859753,20.772,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-30.pdf?ua=1,4282,3
+2017-08-31,595382,2038,0.00342301245250948,20.922,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-08-31.pdf?ua=1,3381,4
+2017-09-01,598763,2042,0.00341036436787176,21.041,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-01_2.pdf?ua=1,3763,1
+2017-09-02,602526,2043,0.00339072504754982,21.173,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-02.pdf?ua=1,4539,4
+2017-09-03,607065,2047,0.00337196181627997,21.333,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-03.pdf?ua=1,5638,1
+2017-09-04,612703,2048,0.00334256564763025,21.531,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-04.pdf?ua=1,5506,6
+2017-09-05,618209,2054,0.00332250096650162,21.724,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-05.pdf?ua=1,6170,1
+2017-09-06,624379,2055,0.00329127020607676,21.941,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-06.pdf?ua=1,5114,6
+2017-09-07,629493,2061,0.00327406341293708,22.121,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-07.pdf?ua=1,6259,1
+2017-09-08,635752,2062,0.00324340308799658,22.341,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-08.pdf?ua=1,4857,1
+2017-09-09,640609,2063,0.00322037311370899,22.511,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-09.pdf?ua=1,5523,2
+2017-09-10,646132,2065,0.00319594138658974,22.705,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-10.pdf?ua=1,6410,1
+2017-09-11,652542,2066,0.00316607973126634,22.931,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-11.pdf?ua=1,6136,5
+2017-09-12,658678,2071,0.00314417666902493,23.146,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-12.pdf?ua=1,4773,3
+2017-09-13,663451,2074,0.00312607864032159,23.314,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-13.pdf?ua=1,6325,7
+2017-09-14,669776,2081,0.0031070089104417,23.536,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-14.pdf?ua=1,6068,2
+2017-09-15,675844,2083,0.00308207219417499,23.75,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-15.pdf?ua=1,5363,3
+2017-09-16,681207,2086,0.00306221163317464,23.938,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-16.pdf?ua=1,5576,4
+2017-09-17,686783,2090,0.00304317375357282,24.134,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-17.pdf?ua=1,6031,1
+2017-09-18,692814,2091,0.00301812607712893,24.346,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-18.pdf?ua=1,5557,10
+2017-09-19,698371,2101,0.00300842961692281,24.541,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-19.pdf?ua=1,6173,2
+2017-09-20,704544,2103,0.00298490938820003,24.758,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-20.pdf?ua=1,8302,2
+2017-09-21,712846,2105,0.00295295196999071,25.05,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-21.pdf?ua=1,5846,1
+2017-09-22,718692,2106,0.00293032342088127,25.255,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-22.pdf?ua=1,6796,4
+2017-09-23,725488,2110,0.00290838718214498,25.494,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-23.pdf?ua=1,6262,5
+2017-09-24,731750,2115,0.00289033139733516,25.714,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-24.pdf?ua=1,6969,3
+2017-09-25,738719,2118,0.00286712538867959,25.959,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-25.pdf?ua=1,6486,1
+2017-09-26,745205,2119,0.00284351285887776,26.187,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-26.pdf?ua=1,7893,3
+2017-09-27,753098,2122,0.00281769437709302,26.464,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-27.pdf?ua=1,7932,2
+2017-09-28,761030,2124,0.00279095436447972,26.743,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-28.pdf?ua=1,5921,4
+2017-09-29,766951,2128,0.00277462315063153,26.9297943900143,NA,NA,4994,4
+2017-09-30,771945,2132,0.00276185479535459,27.127,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-09-30_1.pdf?ua=1,5284,2
+2017-10-01,777229,2134,0.00274565153899301,27.312,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-01.pdf?ua=1,0,0
+2017-10-02,777229,2134,0.00274565153899301,27.312,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-02.pdf?ua=1,9404,5
+2017-10-03,786633,2139,0.00271918416847501,27.643,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-03.pdf?ua=1,4918,3
+2017-10-04,791551,2142,0.00270607958299592,27.816,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-04.pdf?ua=1,4015,3
+2017-10-05,795566,2145,0.00269619365332355,27.957,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/-_2017-10-05_Yemen_Cholera_Response_-_Daily_Epidemiological_Update.pdf?ua=1,1868,2
+2017-10-06,797434,2147,0.00269238582754184,28.0176755216217,NA,NA,1697,3
+2017-10-07,799131,2150,0.00269042247140957,28.0813013566132,NA,NA,5188,2
+2017-10-08,804319,2152,0.00267555534557806,28.264,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/-_2017-10-08_Yemen_Cholera_Response_-_Daily_Epidemiological_Update.pdf?ua=1,8677,3
+2017-10-09,812996,2155,0.00265068954828806,28.569,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/-_2017-10-09_Yemen_Cholera_Response_-_Daily_Epidemiological_Update.pdf?ua=1,2318,1
+2017-10-10,815314,2156,0.00264437995667927,28.651,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/-_2017-10-10_Yemen_Cholera_Response_-_Daily_Epidemiological_Update.pdf?ua=1,7361,4
+2017-10-11,822675,2160,0.00262558118333485,28.909,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/2017-10-11_1_Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-.pdf?ua=1,5857,3
+2017-10-12,828532,2163,0.00261064147190452,29.110840085939,NA,NA,2862,1
+2017-10-13,831394,2164,0.0026028573696707,29.2158714367823,NA,NA,2670,1
+2017-10-14,834064,2165,0.00259572406913618,29.309,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/2017-10-14_Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-.pdf?ua=1,3726,1
+2017-10-15,837790,2166,0.00258537342293415,29.44057984681,NA,NA,4116,1
+2017-10-16,841906,2167,0.00257392155418776,29.585,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/2017-10-16_Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-.pdf?ua=1,4006,3
+2017-10-17,845912,2170,0.00256527865782729,29.726,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/-_2017-10-17_Yemen_Cholera_Response_-_Daily_Epidemiological_Update.pdf?ua=1,3985,2
+2017-10-18,849897,2172,0.00255560379669536,30.0379737730331,NA,NA,3072,1
+2017-10-19,852969,2173,0.00254757206885596,30.4534631560053,NA,NA,3002,1
+2017-10-20,855971,2174,0.00253980567098652,30.8968202595585,NA,NA,3439,1
+2017-10-21,859410,2175,0.00253080601808217,31.205,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-21.pdf?ua=1,3448,2
+2017-10-22,862858,2177,0.00252301073873105,31.33,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-22.pdf?ua=1,3422,1
+2017-10-23,866280,2178,0.00251419864247126,31.4404069904616,NA,NA,3295,1
+2017-10-24,869575,2179,0.00250582180950464,31.5550020198853,NA,NA,2840,1
+2017-10-25,872415,2180,0.00249881077239616,31.677,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-25.pdf?ua=1,2729,1
+2017-10-26,875144,2181,0.0024921612900277,31.7760368697441,NA,NA,2799,1
+2017-10-27,877943,2182,0.00248535497179202,31.8847388646656,NA,NA,3044,1
+2017-10-28,880987,2183,0.00247790262512387,31.989,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-28.pdf?ua=1,3381,1
+2017-10-29,884368,2184,0.0024695601830912,32.111,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-29.pdf?ua=1,3072,0
+2017-10-30,887440,2184,0.00246101144866132,32.223,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-10-30.pdf?ua=1,3041,0
+2017-10-31,890481,2184,0.00245260707415431,32.3427455824306,NA,NA,3837,0
+2017-11-01,894318,2184,0.00244208435925476,32.4724683766933,NA,NA,3298,2
+2017-11-02,897616,2186,0.00243533983351455,32.5895524843131,NA,NA,2696,2
+2017-11-03,900312,2188,0.00243026861799021,32.69,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-03.pdf?ua=1,2473,3
+2017-11-04,902785,2191,0.0024269344306784,32.78,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-04.pdf?ua=1,3210,1
+2017-11-05,905995,2192,0.0024194394008797,32.897,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-05_1.pdf?ua=1,2707,2
+2017-11-06,908702,2194,0.00241443289439222,32.995,Daily Epidemiology update,http://www.emro.who.int/images/stories/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-06.pdf?ua=1,2294,1
+2017-11-07,910996,2195,0.00240945075499783,33.078,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-07.pdf?ua=1,2745,1
+2017-11-08,913741,2196,0.00240330684515634,33.178,Daily Epidemiology update,http://www.emro.who.int/images/stories/yemen/Yemen_Cholera_Response_-_Daily_Epidemiological_Update_-_2017-11-08.pdf?ua=1,NA,NA
