@@ -58,10 +58,16 @@ ggplot(timeseries.yemen) +
   theme_light() +
   geom_point(aes(x=Date, y=NewCases))
 
-ggplot(group_by(timeseries.yemen, Date=week(Date))%>%summarize(NewCases=sum(NewCases))) +
+timeseries.yemen.plot <- group_by(timeseries.yemen, aggDate=week(Date)) %>%
+  summarize(NewCases=sum(NewCases), minDate=min(Date)) %>%
+  ggplot(aes(x=minDate, y=NewCases))
+timeseries.yemen.plot <- timeseries.yemen.plot + 
   theme_light() +
-  geom_bar(aes(x=Date, y=NewCases), stat="identity")
-
+  geom_bar(stat="identity") +
+  scale_x_date(date_labels="%b %d\n%Y") + 
+  xlab("Date") + ylab("New Cases Per Week") + ggtitle("National Data From Yemen")
+print(timeseries.yemen.plot)
+ggsave("timeseries-national.pdf", timeseries.yemen.plot, width=4, height=3)
 
 
 
@@ -105,9 +111,20 @@ timeseries %<>% group_by(Governorate) %>%
 
 timeseries %>% group_by(Month=format(Date, "%Y%m")) %>% summarize(num.loc=length(unique(Governorate)))
 
-ggplot(timeseries) + theme_light() +
-  geom_point(aes(x=Date, y=NewCases)) +
+timeseries.plot <- group_by(timeseries, aggDate=week(Date), Governorate) %>%
+  summarize(NewCases=sum(NewCases), minDate=min(Date)) %>%
+  ggplot(aes(x=minDate, y=NewCases))
+timeseries.plot <- timeseries.plot + 
+  theme_light() +
+  geom_bar(stat="identity") +
+  scale_x_date(date_labels="%b") + 
+  xlab("Date") + ylab("New Cases Per Week") + ggtitle("Governorates in Yemen") +
   facet_wrap(~Governorate, ncol=3)
+print(timeseries.plot)
+ggsave("timeseries-governorate.pdf", timeseries.plot, width=6, height=10)
 
 saveRDS(timeseries.yemen, "timeseries-national.rds")
 saveRDS(timeseries, "timeseries-governorate.rds")
+
+write.csv(timeseries.yemen, "timeseries-national.csv", quote = FALSE, row.names = FALSE)
+write.csv(timeseries, "timeseries-governorate.csv", quote = FALSE, row.names = FALSE)
