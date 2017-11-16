@@ -30,6 +30,7 @@ source("simple-model-fits.R")
 spatial <- list()
 spatial$map <- readRDS("../data/yemen_map.rds")
 spatial$shp <- readRDS("../data/yemen_shp.rds")
+spatial$shpdf <- readRDS("../data/yemen_shpdf.rds")
 spatial$info <- readRDS("../data/yemen_shp_info.rds")
 # Read in daily timeseries and aggregate data into weeks
 timeseries <- list()
@@ -46,26 +47,28 @@ timeseries$governorate.weekly <- aggregate.by.week(timeseries$governorate)
 
 
 ```{r combinedata, cache=TRUE}
-spatiotemporal.governorate <- 
-  lapply(unique(timeseries$governorate.weekly$aggDate)[-1],
-         function (x) combine.spatiotemporal(spatial, timeseries$governorate.weekly, x)) %>%
-  do.call(what=rbind)
+spatiotemporal.governorate <- combine.spatiotemporal(spatial, timeseries$governorate.weekly)
 ```
 
-```{r DataPlotsNational}
+```{r DataPlotsNational, width=5, height=4}
 plot.weekly.ts(timeseries$national.weekly, title="Incidence of cholera in Yemen")
 ```
 
-```{r DataPlotsGovernorate, fig.width=10, fig.height=15}
+```{r DataPlotsGovernorate, fig.width=8, fig.height=12}
 plot.weekly.ts(timeseries$governorate.weekly, 
                title="Incidence of cholera in Yemen governorates") +
   facet_wrap(~Governorate, ncol=3)
 ```
 
 
-```{r SpatialPlotsGovernorate, fig.show = "animate", fig.width=diff(range(spatial$shp$long))*0.7, fig.height=diff(range(spatial$shp$lat))*0.7}
-gganimate(plot.spatiotemporal(spatiotemporal.governorate), title_frame=FALSE)
+```{r SpatialPlotsGovernorate, fig.show="animate", fig.width=diff(range(spatial$shpdf$long))*0.5, fig.height=diff(range(spatial$shpdf$lat))*0.5, cache=TRUE}
+spatiotemporal.governorate %>% 
+  plot.spatiotemporal %>% 
+  gganimate(filename="spatiotemporal.gif",
+            ani.width=diff(range(spatial$shpdf$long))*75,
+            ani.height=diff(range(spatial$shpdf$lat))*75)
 ```
 
 
+<img src="spatiotemporal.gif", alt="Map">
 
